@@ -13,11 +13,11 @@ Main files in this repo:
     
 - **xarray_demo_BLANK.ipynb**
 
-    Same as xarray_demo, but with no code written in. We would use this netbook during a class for students to code along. 
+    Same as xarray_demo, but with no code written in it. We would use this notebook during a class for students to code along. 
     
 - **xarray_demo_KEY.ipynb**
 
-    Same as xarray_demo, but has all the code written in. This kind of notebooks with complete text and code would serve as notes for students. 
+    Same as xarray_demo, but has all the code written in it. This kind of notebook with complete text and code would serve as notes for students. 
 
 - **netcdf_demo_slides.pdf**
 
