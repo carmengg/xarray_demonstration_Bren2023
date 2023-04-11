@@ -26,7 +26,7 @@ Main files in this repo:
 ### ➡️ CLICK THE BINDER BUTTON TO RUN THE DEMO NOTEBOOK ⬅️
 To run the teaching demo notebook just click on the Binder link below. No need to install anything!
 
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmengg/xarray_demonstration_Bren2023/master?labpath=xarray_demo.ipynb target="_blank")
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmengg/xarray_demonstration_Bren2023/master?labpath=xarray_demo.ipynb)
 
 
 ## ✏️ References
